@@ -1,6 +1,6 @@
 XmWebService
 ============
 
-Basit SoapClient Uygulaması.
+Yii framework için Basit SoapClient Uygulaması.
 
-Simple SoapClient app.
+Simple SoapClient app for Yii framework.
